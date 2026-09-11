@@ -1,0 +1,266 @@
+{
+  "quiz_title": "Quiz: deep learning Module Test",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is a non-linear classification example used to demonstrate neural networks?",
+      "options": [
+        "A) AND gate",
+        "B) OR gate",
+        "C) XOR/XNOR",
+        "D) NAND gate"
+      ],
+      "correct_answer": "C) XOR/XNOR",
+      "bloom_level": "Understand",
+      "explanation": "The syllabus mentions XOR/XNOR as a non-linear classification example using neural networks."
+    },
+    {
+      "id": 2,
+      "question": "What is the primary purpose of stochastic gradient-based learning in deep learning?",
+      "options": [
+        "A) To optimize model parameters efficiently",
+        "B) To reduce overfitting",
+        "C) To improve data augmentation",
+        "D) To design hidden units"
+      ],
+      "correct_answer": "A) To optimize model parameters efficiently",
+      "bloom_level": "Remember",
+      "explanation": "The syllabus states that stochastic gradient-based learning is a key component of training neural networks."
+    },
+    {
+      "id": 3,
+      "question": "Which activation function is commonly used in convolutional neural networks (CNNs) for non-linearity?",
+      "options": [
+        "A) Sigmoid",
+        "B) Tanh",
+        "C) ReLU",
+        "D) Softmax"
+      ],
+      "correct_answer": "C) ReLU",
+      "bloom_level": "Understand",
+      "explanation": "The syllabus lists ReLU as an activation function used in CNNs."
+    },
+    {
+      "id": 4,
+      "question": "What is the role of pooling layers in CNNs?",
+      "options": [
+        "A) To increase model complexity",
+        "B) To reduce spatial dimensions",
+        "C) To enhance gradient flow",
+        "D) To improve data augmentation"
+      ],
+      "correct_answer": "B) To reduce spatial dimensions",
+      "bloom_level": "Apply",
+      "explanation": "Pooling layers in CNNs are used to downsample feature maps, reducing spatial dimensions as mentioned in the syllabus."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a popular CNN architecture mentioned in the syllabus?",
+      "options": [
+        "A) LeNet",
+        "B) VGG",
+        "C) Both A and B",
+        "D) Neither A nor B"
+      ],
+      "correct_answer": "C) Both A and B",
+      "bloom_level": "Remember",
+      "explanation": "The syllabus explicitly lists VGG and GoogleNet/ResNet as popular CNN architectures."
+    },
+    {
+      "id": 6,
+      "question": "What is the primary function of dropout in neural networks?",
+      "options": [
+        "A) To prevent overfitting",
+        "B) To speed up training",
+        "C) To enhance data augmentation",
+        "D) To improve gradient clipping"
+      ],
+      "correct_answer": "A) To prevent overfitting",
+      "bloom_level": "Understand",
+      "explanation": "Dropout is a regularization technique to reduce overfitting, as stated in the syllabus."
+    },
+    {
+      "id": 7,
+      "question": "Which problem in RNNs is addressed by using Long Short-Term Memory (LSTM) networks?",
+      "options": [
+        "A) Vanishing gradient",
+        "B) Data augmentation",
+        "C) Dropout",
+        "D) Batch normalization"
+      ],
+      "correct_answer": "A) Vanishing gradient",
+      "bloom_level": "Apply",
+      "explanation": "The syllabus notes that LSTMs are used to mitigate the vanishing gradient problem in RNNs."
+    },
+    {
+      "id": 8,
+      "question": "What is the purpose of the Softmax layer in neural networks?",
+      "options": [
+        "A) To normalize input data",
+        "B) To produce probability distributions",
+        "C) To perform pooling operations",
+        "D) To apply gradient clipping"
+      ],
+      "correct_answer": "B) To produce probability distributions",
+      "bloom_level": "Remember",
+      "explanation": "The syllabus mentions Softmax as an activation function for output layers in classification tasks."
+    },
+    {
+      "id": 9,
+      "question": "Which technique is used to prevent the vanishing gradient problem in RNNs?",
+      "options": [
+        "A) Dropout",
+        "B) Gradient clipping",
+        "C) LSTM",
+        "D) Data augmentation"
+      ],
+      "correct_answer": "C) LSTM",
+      "bloom_level": "Understand",
+      "explanation": "The syllabus explicitly states that LSTMs are designed to address the vanishing gradient problem."
+    },
+    {
+      "id": 10,
+      "question": "What is the primary application of Generative Adversarial Networks (GANs)?",
+      "options": [
+        "A) Image classification",
+        "B) Data compression",
+        "C) Image generation",
+        "D) Text summarization"
+      ],
+      "correct_answer": "C) Image generation",
+      "bloom_level": "Remember",
+      "explanation": "The syllabus highlights GANs as generative models for tasks like image creation."
+    },
+    {
+      "id": 11,
+      "question": "Which component of a GAN is responsible for generating synthetic data?",
+      "options": [
+        "A) Discriminator",
+        "B) Generator",
+        "C) Encoder",
+        "D) Decoder"
+      ],
+      "correct_answer": "B) Generator",
+      "bloom_level": "Understand",
+      "explanation": "The syllabus describes the generator as the component that creates synthetic data in GANs."
+    },
+    {
+      "id": 12,
+      "question": "What is the main difference between discriminative and generative models?",
+      "options": [
+        "A) Discriminative models generate data, while generative models classify data.",
+        "B) Discriminative models classify data, while generative models generate data.",
+        "C) Discriminative models use pooling layers, while generative models use dropout.",
+        "D) Discriminative models use auto-encoders, while generative models use GANs."
+      ],
+      "correct_answer": "B) Discriminative models classify data, while generative models generate data.",
+      "bloom_level": "Apply",
+      "explanation": "The syllabus compares discriminative and generative models, stating GANs are generative."
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is a hybrid model combining auto-encoders and GANs?",
+      "options": [
+        "A) Variational Auto-encoder (VAE)",
+        "B) Encoder-Decoder GAN",
+        "C) Both A and B",
+        "D) Neither A nor B"
+      ],
+      "correct_answer": "B) Encoder-Decoder GAN",
+      "bloom_level": "Remember",
+      "explanation": "The syllabus mentions hybrid models like Encoder-Decoder GANs."
+    },
+    {
+      "id": 14,
+      "question": "What is the primary purpose of an auto-encoder?",
+      "options": [
+        "A) To generate synthetic data",
+        "B) To compress and reconstruct data",
+        "C) To classify sequential data",
+        "D) To perform gradient clipping"
+      ],
+      "correct_answer": "B) To compress and reconstruct data",
+      "bloom_level": "Understand",
+      "explanation": "The syllabus states that auto-encoders are used for data compression and reconstruction."
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is a key technique in training CNNs using TensorFlow?",
+      "options": [
+        "A) Backpropagation",
+        "B) Data augmentation",
+        "C) Both A and B",
+        "D) Neither A nor B"
+      ],
+      "correct_answer": "C) Both A and B",
+      "bloom_level": "Apply",
+      "explanation": "The syllabus mentions both backpropagation and data augmentation as part of CNN training."
+    },
+    {
+      "id": 16,
+      "question": "What is the role of normalization in deep learning models?",
+      "options": [
+        "A) To reduce overfitting",
+        "B) To standardize input data",
+        "C) To enhance gradient flow",
+        "D) To improve data augmentation"
+      ],
+      "correct_answer": "B) To standardize input data",
+      "bloom_level": "Understand",
+      "explanation": "Normalization is a preprocessing step to standardize input data, as implied in the syllabus."
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is a type of recurrent neural network (RNN) that addresses the vanishing gradient problem?",
+      "options": [
+        "A) Simple RNN",
+        "B) LSTM",
+        "C) GRU",
+        "D) Both B and C"
+      ],
+      "correct_answer": "D) Both B and C",
+      "bloom_level": "Remember",
+      "explanation": "The syllabus highlights LSTMs as a solution to the vanishing gradient problem."
+    },
+    {
+      "id": 18,
+      "question": "What is the primary function of the discriminator in a GAN?",
+      "options": [
+        "A) To generate synthetic data",
+        "B) To classify real vs. fake data",
+        "C) To compress input data",
+        "D) To perform data augmentation"
+      ],
+      "correct_answer": "B) To classify real vs. fake data",
+      "bloom_level": "Understand",
+      "explanation": "The syllabus describes the discriminator as the component that distinguishes real from generated data."
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is a technique used to stabilize GAN training?",
+      "options": [
+        "A) Dropout",
+        "B) Gradient clipping",
+        "C) Both A and B",
+        "D) Neither A nor B"
+      ],
+      "correct_answer": "C) Both A and B",
+      "bloom_level": "Apply",
+      "explanation": "The syllabus implies that techniques like gradient clipping help stabilize GAN training."
+    },
+    {
+      "id": 20,
+      "question": "What is the main advantage of using a variational auto-encoder (VAE) over a standard auto-encoder?",
+      "options": [
+        "A) VAEs generate synthetic data",
+        "B) VAEs use a probabilistic approach",
+        "C) VAEs are faster to train",
+        "D) VAEs use GANs"
+      ],
+      "correct_answer": "B) VAEs use a probabilistic approach",
+      "bloom_level": "Understand",
+      "explanation": "The syllabus implies that auto-encoders can be extended to probabilistic models like VAEs."
+    }
+  ]
+}

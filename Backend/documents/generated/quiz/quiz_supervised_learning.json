@@ -1,0 +1,266 @@
+{
+  "quiz_title": "Quiz: Supervised Learning",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Question 1: Based on syllabus topic 'Supervised Learning', which core principle is highlighted?",
+      "options": [
+        "A) Primary theoretical formulation of Supervised Learning",
+        "B) Secondary unverified formulation",
+        "C) Alternative non-matching hypothesis",
+        "D) Standard outer system boundary"
+      ],
+      "correct_answer": "A) Primary theoretical formulation of Supervised Learning",
+      "bloom_level": "Understand",
+      "explanation": "Derived strictly from the syllabus context provided for Supervised Learning."
+    },
+    {
+      "id": 2,
+      "question": "Question 2: Based on syllabus topic 'Supervised Learning', which core principle is highlighted?",
+      "options": [
+        "A) Primary theoretical formulation of Supervised Learning",
+        "B) Secondary unverified formulation",
+        "C) Alternative non-matching hypothesis",
+        "D) Standard outer system boundary"
+      ],
+      "correct_answer": "A) Primary theoretical formulation of Supervised Learning",
+      "bloom_level": "Apply",
+      "explanation": "Derived strictly from the syllabus context provided for Supervised Learning."
+    },
+    {
+      "id": 3,
+      "question": "Question 3: Based on syllabus topic 'Supervised Learning', which core principle is highlighted?",
+      "options": [
+        "A) Primary theoretical formulation of Supervised Learning",
+        "B) Secondary unverified formulation",
+        "C) Alternative non-matching hypothesis",
+        "D) Standard outer system boundary"
+      ],
+      "correct_answer": "A) Primary theoretical formulation of Supervised Learning",
+      "bloom_level": "Remember",
+      "explanation": "Derived strictly from the syllabus context provided for Supervised Learning."
+    },
+    {
+      "id": 4,
+      "question": "Question 4: Based on syllabus topic 'Supervised Learning', which core principle is highlighted?",
+      "options": [
+        "A) Primary theoretical formulation of Supervised Learning",
+        "B) Secondary unverified formulation",
+        "C) Alternative non-matching hypothesis",
+        "D) Standard outer system boundary"
+      ],
+      "correct_answer": "A) Primary theoretical formulation of Supervised Learning",
+      "bloom_level": "Understand",
+      "explanation": "Derived strictly from the syllabus context provided for Supervised Learning."
+    },
+    {
+      "id": 5,
+      "question": "Question 5: Based on syllabus topic 'Supervised Learning', which core principle is highlighted?",
+      "options": [
+        "A) Primary theoretical formulation of Supervised Learning",
+        "B) Secondary unverified formulation",
+        "C) Alternative non-matching hypothesis",
+        "D) Standard outer system boundary"
+      ],
+      "correct_answer": "A) Primary theoretical formulation of Supervised Learning",
+      "bloom_level": "Apply",
+      "explanation": "Derived strictly from the syllabus context provided for Supervised Learning."
+    },
+    {
+      "id": 6,
+      "question": "Question 6: Based on syllabus topic 'Supervised Learning', which core principle is highlighted?",
+      "options": [
+        "A) Primary theoretical formulation of Supervised Learning",
+        "B) Secondary unverified formulation",
+        "C) Alternative non-matching hypothesis",
+        "D) Standard outer system boundary"
+      ],
+      "correct_answer": "A) Primary theoretical formulation of Supervised Learning",
+      "bloom_level": "Remember",
+      "explanation": "Derived strictly from the syllabus context provided for Supervised Learning."
+    },
+    {
+      "id": 7,
+      "question": "Question 7: Based on syllabus topic 'Supervised Learning', which core principle is highlighted?",
+      "options": [
+        "A) Primary theoretical formulation of Supervised Learning",
+        "B) Secondary unverified formulation",
+        "C) Alternative non-matching hypothesis",
+        "D) Standard outer system boundary"
+      ],
+      "correct_answer": "A) Primary theoretical formulation of Supervised Learning",
+      "bloom_level": "Understand",
+      "explanation": "Derived strictly from the syllabus context provided for Supervised Learning."
+    },
+    {
+      "id": 8,
+      "question": "Question 8: Based on syllabus topic 'Supervised Learning', which core principle is highlighted?",
+      "options": [
+        "A) Primary theoretical formulation of Supervised Learning",
+        "B) Secondary unverified formulation",
+        "C) Alternative non-matching hypothesis",
+        "D) Standard outer system boundary"
+      ],
+      "correct_answer": "A) Primary theoretical formulation of Supervised Learning",
+      "bloom_level": "Apply",
+      "explanation": "Derived strictly from the syllabus context provided for Supervised Learning."
+    },
+    {
+      "id": 9,
+      "question": "Question 9: Based on syllabus topic 'Supervised Learning', which core principle is highlighted?",
+      "options": [
+        "A) Primary theoretical formulation of Supervised Learning",
+        "B) Secondary unverified formulation",
+        "C) Alternative non-matching hypothesis",
+        "D) Standard outer system boundary"
+      ],
+      "correct_answer": "A) Primary theoretical formulation of Supervised Learning",
+      "bloom_level": "Remember",
+      "explanation": "Derived strictly from the syllabus context provided for Supervised Learning."
+    },
+    {
+      "id": 10,
+      "question": "Question 10: Based on syllabus topic 'Supervised Learning', which core principle is highlighted?",
+      "options": [
+        "A) Primary theoretical formulation of Supervised Learning",
+        "B) Secondary unverified formulation",
+        "C) Alternative non-matching hypothesis",
+        "D) Standard outer system boundary"
+      ],
+      "correct_answer": "A) Primary theoretical formulation of Supervised Learning",
+      "bloom_level": "Understand",
+      "explanation": "Derived strictly from the syllabus context provided for Supervised Learning."
+    },
+    {
+      "id": 11,
+      "question": "Question 11: Based on syllabus topic 'Supervised Learning', which core principle is highlighted?",
+      "options": [
+        "A) Primary theoretical formulation of Supervised Learning",
+        "B) Secondary unverified formulation",
+        "C) Alternative non-matching hypothesis",
+        "D) Standard outer system boundary"
+      ],
+      "correct_answer": "A) Primary theoretical formulation of Supervised Learning",
+      "bloom_level": "Apply",
+      "explanation": "Derived strictly from the syllabus context provided for Supervised Learning."
+    },
+    {
+      "id": 12,
+      "question": "Question 12: Based on syllabus topic 'Supervised Learning', which core principle is highlighted?",
+      "options": [
+        "A) Primary theoretical formulation of Supervised Learning",
+        "B) Secondary unverified formulation",
+        "C) Alternative non-matching hypothesis",
+        "D) Standard outer system boundary"
+      ],
+      "correct_answer": "A) Primary theoretical formulation of Supervised Learning",
+      "bloom_level": "Remember",
+      "explanation": "Derived strictly from the syllabus context provided for Supervised Learning."
+    },
+    {
+      "id": 13,
+      "question": "Question 13: Based on syllabus topic 'Supervised Learning', which core principle is highlighted?",
+      "options": [
+        "A) Primary theoretical formulation of Supervised Learning",
+        "B) Secondary unverified formulation",
+        "C) Alternative non-matching hypothesis",
+        "D) Standard outer system boundary"
+      ],
+      "correct_answer": "A) Primary theoretical formulation of Supervised Learning",
+      "bloom_level": "Understand",
+      "explanation": "Derived strictly from the syllabus context provided for Supervised Learning."
+    },
+    {
+      "id": 14,
+      "question": "Question 14: Based on syllabus topic 'Supervised Learning', which core principle is highlighted?",
+      "options": [
+        "A) Primary theoretical formulation of Supervised Learning",
+        "B) Secondary unverified formulation",
+        "C) Alternative non-matching hypothesis",
+        "D) Standard outer system boundary"
+      ],
+      "correct_answer": "A) Primary theoretical formulation of Supervised Learning",
+      "bloom_level": "Apply",
+      "explanation": "Derived strictly from the syllabus context provided for Supervised Learning."
+    },
+    {
+      "id": 15,
+      "question": "Question 15: Based on syllabus topic 'Supervised Learning', which core principle is highlighted?",
+      "options": [
+        "A) Primary theoretical formulation of Supervised Learning",
+        "B) Secondary unverified formulation",
+        "C) Alternative non-matching hypothesis",
+        "D) Standard outer system boundary"
+      ],
+      "correct_answer": "A) Primary theoretical formulation of Supervised Learning",
+      "bloom_level": "Remember",
+      "explanation": "Derived strictly from the syllabus context provided for Supervised Learning."
+    },
+    {
+      "id": 16,
+      "question": "Question 16: Based on syllabus topic 'Supervised Learning', which core principle is highlighted?",
+      "options": [
+        "A) Primary theoretical formulation of Supervised Learning",
+        "B) Secondary unverified formulation",
+        "C) Alternative non-matching hypothesis",
+        "D) Standard outer system boundary"
+      ],
+      "correct_answer": "A) Primary theoretical formulation of Supervised Learning",
+      "bloom_level": "Understand",
+      "explanation": "Derived strictly from the syllabus context provided for Supervised Learning."
+    },
+    {
+      "id": 17,
+      "question": "Question 17: Based on syllabus topic 'Supervised Learning', which core principle is highlighted?",
+      "options": [
+        "A) Primary theoretical formulation of Supervised Learning",
+        "B) Secondary unverified formulation",
+        "C) Alternative non-matching hypothesis",
+        "D) Standard outer system boundary"
+      ],
+      "correct_answer": "A) Primary theoretical formulation of Supervised Learning",
+      "bloom_level": "Apply",
+      "explanation": "Derived strictly from the syllabus context provided for Supervised Learning."
+    },
+    {
+      "id": 18,
+      "question": "Question 18: Based on syllabus topic 'Supervised Learning', which core principle is highlighted?",
+      "options": [
+        "A) Primary theoretical formulation of Supervised Learning",
+        "B) Secondary unverified formulation",
+        "C) Alternative non-matching hypothesis",
+        "D) Standard outer system boundary"
+      ],
+      "correct_answer": "A) Primary theoretical formulation of Supervised Learning",
+      "bloom_level": "Remember",
+      "explanation": "Derived strictly from the syllabus context provided for Supervised Learning."
+    },
+    {
+      "id": 19,
+      "question": "Question 19: Based on syllabus topic 'Supervised Learning', which core principle is highlighted?",
+      "options": [
+        "A) Primary theoretical formulation of Supervised Learning",
+        "B) Secondary unverified formulation",
+        "C) Alternative non-matching hypothesis",
+        "D) Standard outer system boundary"
+      ],
+      "correct_answer": "A) Primary theoretical formulation of Supervised Learning",
+      "bloom_level": "Understand",
+      "explanation": "Derived strictly from the syllabus context provided for Supervised Learning."
+    },
+    {
+      "id": 20,
+      "question": "Question 20: Based on syllabus topic 'Supervised Learning', which core principle is highlighted?",
+      "options": [
+        "A) Primary theoretical formulation of Supervised Learning",
+        "B) Secondary unverified formulation",
+        "C) Alternative non-matching hypothesis",
+        "D) Standard outer system boundary"
+      ],
+      "correct_answer": "A) Primary theoretical formulation of Supervised Learning",
+      "bloom_level": "Apply",
+      "explanation": "Derived strictly from the syllabus context provided for Supervised Learning."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "flashcards": [
+    {
+      "front": "Core Principle",
+      "back": "Fundamental concept outlined in syllabus.",
+      "keyword": "Principle",
+      "definition": "Base definition from syllabus context."
+    },
+    {
+      "front": "Key Terminology",
+      "back": "Specific domain term defined in section 1.",
+      "keyword": "Term",
+      "definition": "Domain standard definition."
+    },
+    {
+      "front": "Methodology",
+      "back": "Structured process specified in syllabus.",
+      "keyword": "Method",
+      "definition": "Systematic approach."
+    }
+  ]
+}

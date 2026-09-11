@@ -1,0 +1,76 @@
+{
+  "topic": "deep learning",
+  "total_cards": 10,
+  "flashcards": [
+    {
+      "card_id": 1,
+      "front": "What is Deep Learning?",
+      "back": "A subset of machine learning that uses layered neural networks to model complex patterns in data.",
+      "keyword": "Deep Learning",
+      "definition": "Techniques to solve real-world problems using layered neural networks, as outlined in course objective CO1."
+    },
+    {
+      "card_id": 2,
+      "front": "What is a Neural Network?",
+      "back": "A computational model inspired by biological neurons, consisting of interconnected nodes processing data.",
+      "keyword": "Neural Network",
+      "definition": "Artificial Neural Network described in Unit I as the foundation of deep learning."
+    },
+    {
+      "card_id": 3,
+      "front": "What is a Perceptron?",
+      "back": "A linear classifier used for binary classification tasks, forming the basis of neural networks.",
+      "keyword": "Perceptron",
+      "definition": "Single/Multiple Layer Perceptron discussed in Unit I for non-linear classification."
+    },
+    {
+      "card_id": 4,
+      "front": "What is a Feed-Forward Network?",
+      "back": "A neural network where data flows unidirectionally from input to output without cycles.",
+      "keyword": "Feed-Forward Network",
+      "definition": "Described in Unit I as a fundamental architecture for deep learning."
+    },
+    {
+      "card_id": 5,
+      "front": "What is Backpropagation?",
+      "back": "An algorithm for training neural networks by adjusting weights using gradient descent.",
+      "keyword": "Backpropagation",
+      "definition": "Stochastic Gradient-Based learning method detailed in Unit I."
+    },
+    {
+      "card_id": 6,
+      "front": "What is a CNN?",
+      "back": "A neural network architecture for grid data (e.g., images) using convolutional layers.",
+      "keyword": "CNN",
+      "definition": "Covered in Course Outcome CO2 for image processing and performance evaluation."
+    },
+    {
+      "card_id": 7,
+      "front": "What is an RNN?",
+      "back": "A neural network for sequential data with connections forming a directed graph along sequences.",
+      "keyword": "RNN",
+      "definition": "Applied in Course Outcome CO3 for sequence prediction and classification."
+    },
+    {
+      "card_id": 8,
+      "front": "What is an LSTM?",
+      "back": "A recurrent neural network variant with memory cells to retain long-term dependencies.",
+      "keyword": "LSTM",
+      "definition": "Part of Course Outcome CO3 for handling sequential data challenges."
+    },
+    {
+      "card_id": 9,
+      "front": "What is a GAN?",
+      "back": "A framework with a generator and discriminator network competing to produce realistic data.",
+      "keyword": "GAN",
+      "definition": "Generative Adversarial Networks (GANs) detailed in Unit IV with adversarial training."
+    },
+    {
+      "card_id": 10,
+      "front": "What is an Auto-Encoder?",
+      "back": "A neural network that compresses data into a lower-dimensional representation and reconstructs it.",
+      "keyword": "Auto-Encoder",
+      "definition": "Auto-encoders for data compression and reconstruction as described in Unit V."
+    }
+  ]
+}
